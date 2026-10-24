@@ -1,0 +1,14 @@
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\bin\Debug\net10.0\Taller5Listas.exe
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\bin\Debug\net10.0\Taller5Listas.deps.json
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\bin\Debug\net10.0\Taller5Listas.runtimeconfig.json
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\bin\Debug\net10.0\Taller5Listas.dll
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\bin\Debug\net10.0\Taller5Listas.pdb
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.AssemblyInfoInputs.cache
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.AssemblyInfo.cs
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.csproj.CoreCompileInputs.cache
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.dll
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\refint\Taller5Listas.dll
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.pdb
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\Taller5Listas.genruntimeconfig.cache
+D:\Developer\Proyectos\Talleres\Taller05\Taller5Listas\obj\Debug\net10.0\ref\Taller5Listas.dll
